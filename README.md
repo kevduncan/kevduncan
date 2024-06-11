@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Linkedin: kevduncan](https://img.shields.io/badge/-kevduncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevduncan/)](https://www.linkedin.com/in/kevduncan/)
+
 <!--
 **kevduncan/kevduncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
